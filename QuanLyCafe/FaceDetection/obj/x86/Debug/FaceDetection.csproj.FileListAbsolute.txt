@@ -1,0 +1,11 @@
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\bin\FaceDetection.exe.config
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\bin\FaceDetection.exe
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\bin\FaceDetection.pdb
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.Properties.Resources.resources
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.csproj.GenerateResource.cache
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.csproj.CoreCompileInputs.cache
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.csproj.CopyComplete
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.exe
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.pdb
+E:\1Quang\PROJECT\DoAn.Net\cafe\QuanLyCafe\FaceDetection\obj\x86\Debug\FaceDetection.csprojAssemblyReference.cache
